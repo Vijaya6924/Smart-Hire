@@ -1,0 +1,8 @@
+{
+  "name": "SmartHire – Job & Assessment Portal",
+  "description": "An enterprise-grade job portal and assessment platform featuring AI-driven resume screening, real-time proctoring, and comprehensive candidate management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
